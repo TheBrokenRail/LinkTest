@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LinkTest</string>
+    <string name="text_text">Look here is <a href="https://google.com">a very very very very\nvery very very\nvery very long link that wraps across the screen</a>. Here is also some very very very very very very very very long normal text.</string>
+</resources>

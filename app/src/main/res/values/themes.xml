@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LinkTest" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.LinkTest" parent="Base.Theme.LinkTest" />
+</resources>
